@@ -34,6 +34,8 @@
 
 - 🌐 Deployed on [AWS S3](https://aws.amazon.com/s3/). Delivered by [AWS CloudFront](https://aws.amazon.com/cloudfront/).
 
+- 📱 Responsive designs.
+
 - ☀️ Light/Dark theme switch.
 
 <br>
